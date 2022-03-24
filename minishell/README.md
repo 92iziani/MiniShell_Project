@@ -1,6 +1,6 @@
-# Tesh
+# MiniShell
 
-Tesh is a really simple shell based on sh syntax. Nothing fancy or anything.
+Ceci est un mini-shell réalisé en langage C.
 
 ## Building
 
