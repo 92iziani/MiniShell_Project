@@ -1,3 +1,0 @@
-echo Lorem ipsum dolor sit amet. > tmp-pipe
-echo Lorem ipsum dolor sit amet, consectetur adipiscing elit. >> tmp-pipe
-cat tmp-pipe | grep ipsum
