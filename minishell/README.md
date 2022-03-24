@@ -1,6 +1,6 @@
 # MiniShell
 
-Ceci est un mini-shell réalisé en langage C.
+this is a mini-shell made with C.
 
 ## Building
 
